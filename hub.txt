@@ -1,0 +1,5 @@
+hub CUT&RUNTrackHub
+shortLabel CUT&RUN Track Hub
+longLabel Track Hub for the CUT&RUN data 
+genomesFile genomes.txt
+email  andrew.y.wan06@gmail.com
