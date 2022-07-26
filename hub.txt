@@ -2,4 +2,55 @@ hub CUT&RUNTrackHub
 shortLabel CUT&RUN Track Hub
 longLabel Track Hub for the CUT&RUN data 
 genomesFile genomes.txt
+useOneFile on
 email  andrew.y.wan06@gmail.com
+
+genome hg19
+
+track H3K4me3_BOS_R1
+type bigWig
+bigDataUrl track_data_url
+shortLabel Temp
+longLabel Temp
+
+track H3K4me3_BOS_R2
+type bigWig
+bigDataUrl track_data_url
+shortLabel Temp
+longLabel Temp
+
+track H3K4me3_ctrl_R1
+type bigWig
+bigDataUrl track_data_url
+shortLabel Temp
+longLabel Temp
+
+track H3K4me3_BOS_R2
+type bigWig
+bigDataUrl track_data_url
+shortLabel Temp
+longLabel Temp
+
+track H3K27me3_BOS_R1
+type bigWig
+bigDataUrl track_data_url
+shortLabel Temp
+longLabel Temp
+
+track H3K27me3_BOS_R2
+type bigWig
+bigDataUrl track_data_url
+shortLabel Temp
+longLabel Temp
+
+track H3K27me3_ctrl_R1
+type bigWig
+bigDataUrl track_data_url
+shortLabel Temp
+longLabel Temp
+
+track H3K27me3_BOS_R2
+type bigWig
+bigDataUrl track_data_url
+shortLabel Temp
+longLabel Temp
